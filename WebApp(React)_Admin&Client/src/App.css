@@ -1,0 +1,22 @@
+.marginset
+{
+  margin: 20px;
+  border: 2px solid black;
+}
+
+.margin
+{
+  margin: 20px;
+}
+.margin_btn
+{
+  margin-left: 10px;
+}
+
+.td{
+  padding: 5px
+}
+
+.pad{
+  padding: 20px;
+}
